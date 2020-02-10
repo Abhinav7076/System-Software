@@ -1,0 +1,10 @@
+This is only a sample input. 
+This file do not have all the test cases.  
+Hence, if your program works on this, it does not mean that you will get full marks.  
+
+cars cars large 
+i want to buy a cars
+a hello one. 
+not a large one.
+For that i need to take loan from bank. 
+

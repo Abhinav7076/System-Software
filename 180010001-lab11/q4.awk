@@ -1,0 +1,3 @@
+BEGIN{
+ print ENVIRON["PATH"];
+}
